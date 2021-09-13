@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">camera</string>
+    <string name="btn_verificar_permiso">Verificar permiso</string>
+</resources>
