@@ -79,7 +79,7 @@ class MainActivity : AppCompatActivity() {
                     Toast.makeText(
                         this,
                         "se denego el permiso",
-                        Toast.LENGTH_SHORT 
+                        Toast.LENGTH_SHORT
                     ).show()
                 }
         }
