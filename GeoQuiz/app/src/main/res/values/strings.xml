@@ -3,4 +3,5 @@
     <string name="txt_score">Score</string>
     <string name="txt_score_value">0</string>
     <string name="txt_question">Presiona next</string>
+    <string name="btn_back">BACK</string>
 </resources>
